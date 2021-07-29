@@ -399,7 +399,7 @@ section.digital-stuffs{
         font-weight: 400;
     }
     .whole-background{
-        height: 150vh;
+        height: 210vh;
     }
 }
 
@@ -435,10 +435,9 @@ section.digital-stuffs{
         display: block;
         padding-bottom: 60px;
     }
-    .whole-background{
-        height: 180vh;
+    .whole-background {
+        height: 210vh;
     }
-
 }
 
 
