@@ -349,7 +349,15 @@ section.digital-stuffs{
         font-weight: 400;
     }
     .whole-background{
-        height: 185vh;
+        height: 120vh;
+    }
+    .kidsform-view img {
+        width: 70%;
+        margin-left: auto;
+        display: block;
+        margin-right: auto;
+        padding-top: 40px;
+        padding-bottom: 35px;
     }
 }
 
@@ -375,9 +383,10 @@ section.digital-stuffs{
     .checkclass h4 {
         font-size: 17px;
         width: 73%;
-        
-        
         font-weight: 400;
+    }
+    .whole-background{
+        height: 150vh;
     }
 }
 
@@ -412,6 +421,9 @@ section.digital-stuffs{
         width: 90%;
         display: block;
         padding-bottom: 60px;
+    }
+    .whole-background{
+        height: 180vh;
     }
 
 }
