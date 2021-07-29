@@ -349,7 +349,7 @@ section.digital-stuffs{
         font-weight: 400;
     }
     .whole-background{
-        height: 120vh;
+        height: 185vh;
     }
 }
 
@@ -381,6 +381,11 @@ section.digital-stuffs{
     }
 }
 
+@media(max-width: 380px){
+    .whole-background{
+        height: 210vh;
+    }
+}
 @media(max-width: 460px){
     .checkclass h4{
         font-size: 15px;
@@ -391,14 +396,24 @@ section.digital-stuffs{
         font-weight: 400;
     }
     .kidsform-view img {
-        width: 100%;
+        width: 90%;
         display: block;
         padding-bottom: 60px;
     }
-    .whole-background{
-        height: 210vh;
+    .free-trial button {
+        font-weight: 700;
+        width: 100%;
+        margin-top: 40px;
+        margin-left: 38px;
+        margin-right: auto;
+        padding: 10px;
+        border-radius: 5px;
+        background: #BC658D;
+        border: 1px solid #BC658D;
+        color: whitesmoke;
+        font-size: 27px;
     }
-    
+
 }
 
 
