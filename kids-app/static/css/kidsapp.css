@@ -385,6 +385,19 @@ section.digital-stuffs{
     .whole-background{
         height: 210vh;
     }
+    .free-trial button {
+        font-weight: 700;
+        width: 100%;
+        margin-top: 40px;
+        margin-left: 25px;
+        margin-right: auto;
+        padding: 10px;
+        border-radius: 5px;
+        background: #BC658D;
+        border: 1px solid #BC658D;
+        color: whitesmoke;
+        font-size: 27px;
+    }
 }
 @media(max-width: 460px){
     .checkclass h4{
@@ -399,19 +412,6 @@ section.digital-stuffs{
         width: 90%;
         display: block;
         padding-bottom: 60px;
-    }
-    .free-trial button {
-        font-weight: 700;
-        width: 100%;
-        margin-top: 40px;
-        margin-left: 38px;
-        margin-right: auto;
-        padding: 10px;
-        border-radius: 5px;
-        background: #BC658D;
-        border: 1px solid #BC658D;
-        color: whitesmoke;
-        font-size: 27px;
     }
 
 }
