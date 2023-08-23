@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Red Hat Display", sans-serif;
+}
+img {
+  width: 100%;
+}
+.wrapper {
+
+  /* background-color: blue;
+  background-image: url("https://images.unsplash.com/photo-1682685795557-976f03aca7b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2371&q=80"); */
+  background-color: url("https://images.unsplash.com/photo-1682685795557-976f03aca7b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2371&q=80");
+  background-image: yellow;
+  background: url("https://images.unsplash.com/photo-1682685795557-976f03aca7b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2371&q=80");
+  height: 100vh;
+  padding-top: 50px;
+}
+
+.container {
+  width: 400px;
+  background-color: white;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin: 50px auto;
+  border-radius: 10px;
+}
+
+.for_padding {
+  text-align: center;
+  padding: 30px;
+  color: hsl(223, 47%, 23%);
+}
+
+.for_padding h2 {
+  margin-bottom: 10px;
+
+}
+.for_padding p {
+  font-weight: 400;
+  /* letter-spacing: 0.5px; */
+  /* line-height: 30px; */
+}
+.for_padding a button {
+  border: 0;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px 0;
+  border-radius: 5px;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+  transition: 0.5s;
+}
+/* .for_padding a button:hover {
+  color: red;
+  background-color: yellow;
+} */
